@@ -1,6 +1,6 @@
 # Choose the machine being used
 # Options: PC, SNELLIUS, IRENE, MARENOSTRUM, SUPERMUC, DISCOVERER
-MACHINE=PC
+MACHINE=DISCOVERER
 FLAVOUR=GNU
 # Modules required for each HPC system as follows:
 # SNELLIUS:
